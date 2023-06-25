@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "test1@test.com",
+      "password": "$2a$10$AptFWZbsHkWrdrTl.Y/P2eC8ZV2I/6sjDhcHttzceHanGGDxh9Fyu",
+      "username": "User Test 1",
+      "id": 1
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$QX3Chf6ZBbnMsH41wIlIm.ea4zfS7myHlUsd6agBaxQsIjYhB6Qd6",
+      "username": "admin",
+      "id": 2
+    }
+  ],
+  "products": []
+}
