@@ -5,8 +5,12 @@ import Sidebar from "./sidebar";
 function Layout() {
   return (
     <>
-      <Sidebar/>
-      <Outlet />
+      <div className="flex">
+        <Sidebar/>
+        <section className="bg-blue-300 flex-grow">
+          <Outlet />
+        </section>
+      </div>
     </>
   );
 }
